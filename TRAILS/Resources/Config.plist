@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>MusicTrailsAPIURL</key>
+    <string>https://api.musictrails.app</string>
+    <key>SceneTrailsAPIURL</key>
+    <string>https://api.scenetrails.app</string>
+    <key>GrafanaURL</key>
+    <string>http://10.0.0.40:3000</string>
+    <key>PrometheusURL</key>
+    <string>http://100.108.162.41:9091</string>
+    <key>UptimeKumaURL</key>
+    <string>http://10.0.0.40:3001</string>
+    <key>R730SSHHost</key>
+    <string>r730.local</string>
+    <key>R630SSHHost</key>
+    <string>r630.local</string>
+</dict>
+</plist>
